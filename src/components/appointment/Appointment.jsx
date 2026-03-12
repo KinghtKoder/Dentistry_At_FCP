@@ -1,7 +1,7 @@
 import { useRef, useState } from 'react'
 import { motion, useInView } from 'framer-motion'
 import {
-  MapPin, Phone, Clock, Mail, Send, CheckCircle, AlertCircle,
+  MapPin, Phone, Clock, Mail, Send, CheckCircle, AlertCircle, 
 } from 'lucide-react'
 
 const hours = [
